@@ -2,6 +2,7 @@
 
 Sentiment analysis for structured and unstructured feedback
 
+Download model : https://www.kaggle.com/code/shenihachris/sentimment-analysis-kaggle
 
 1. Start FastAPI (Terminal 1)
 file name: main.py
